@@ -1,0 +1,19 @@
+h1 {
+    /* font-size: 5rem; */
+    margin-top: .5rem;
+    margin-left: 25rem;
+}
+
+.pdf {
+    width: 100%;
+    height: 90vh;
+}
+
+.add {
+    /* margin-left: 80%; */
+}
+
+.thisPdf {
+    margin-top: 1rem;
+    text-align: center;
+}
